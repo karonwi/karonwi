@@ -1,0 +1,43 @@
+*{
+ margin: 0;
+ padding: 0;
+ border: 0;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img{
+ width: 200px;
+ height: 200px;
+}
+h1{
+ text-align: center;
+ padding: 10px;
+}
+.animals{
+ height: 100px;
+ margin: 0 auto;
+ width: 100%;
+ max-width: 860px;
+}
+.flex-container{
+ display: flex;
+ flex-wrap: wrap;
+ flex: 0 1 200px;
+}
+.elephant{
+ margin: 4px 8px 4px 8px;
+}
+.flamingo {
+ margin: 4px 8px 4px 8px;
+}
+.fox {
+ margin: 4px 8px 4px 8px;
+}
+.giraffe {
+ margin: 4px 8px 4px 8px;
+}
+.lion {
+ margin: 4px 8px 4px 8px;
+}
+.rabbit {
+ margin: 4px 8px 4px 8px;
+}
